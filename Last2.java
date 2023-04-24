@@ -1,5 +1,6 @@
 public class Last2 {
     public static void main(String[] args) {
+    //https://codingbat.com/prob/p178318
         int ans = last2("hixxhi");
         System.out.println(ans);
     }
