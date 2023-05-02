@@ -1,7 +1,7 @@
 public class StringYak {
   
   public static void main(String[] args){
-  
+    // https://codingbat.com/prob/p126212
     String ans = stringYak2("yakpak");
     System.out.println(ans);
   }
