@@ -15,5 +15,4 @@ public class has23{
   
   return false;
 }
-
 }
