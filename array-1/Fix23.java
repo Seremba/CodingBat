@@ -4,7 +4,8 @@ public class Fix23{
    public static void main(String[] args){
      // https://codingbat.com/prob/p120347
       int[] nums = {1, 2, 3};
-      int[] ans = fix23(nums);
+      int[] arr = {2, 3};
+      int ans = fix23(nums, arr);
       System.out.println(Arrays.toString(ans));
    }
    
