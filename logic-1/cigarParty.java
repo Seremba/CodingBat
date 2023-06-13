@@ -1,6 +1,6 @@
 public class cigarParty {
    public static void main(String[] args) {
-   
+    // https://codingbat.com/prob/p159531
    }
 
    public static boolean cigarParty(int cigars, boolean isWeekend) {
