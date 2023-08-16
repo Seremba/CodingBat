@@ -3,7 +3,7 @@ public class Old35 {
     // https://codingbat.com/prob/p159612
    }
 
-   public boolean old35(int n) {
+   public static boolean old35(int n) {
      return (n % 3 == 0) != (n % 5 == 0);
   }
 
