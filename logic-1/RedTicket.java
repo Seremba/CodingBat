@@ -1,4 +1,5 @@
 public class RedTicket {
+    // https://codingbat.com/prob/p170833
     public int redTicket(int a, int b, int c) {
         if (a == 2 && b == 2 && c == 2) {
             return 10;
