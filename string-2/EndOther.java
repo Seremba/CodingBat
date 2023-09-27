@@ -9,7 +9,7 @@ public class EndOther {
                 }
             }
             
-            for (int i = 0; i < b.length(); i++) {
+            for (int i = 0; i < b.length(); i++) { 
                 if (bLower.substring(i, bLower.length()).equals(aLower)) {
                 return true;
                 }
