@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p139564
 public String starOut(String str) {
   String output = "";
   for (int i = 0; i < str.length(); i++) {
