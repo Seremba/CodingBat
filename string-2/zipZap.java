@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p180759
 public String zipZap(String str) {
   for(int i = 0; i < str.length() - 2; i++){
     if (str.charAt(i) == 'z' && str.charAt(i + 2) == 'p'){
