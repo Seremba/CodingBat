@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p198664
 public boolean gHappy(String str) {
 int length = str.length();
   str = "x" + str + "x";
