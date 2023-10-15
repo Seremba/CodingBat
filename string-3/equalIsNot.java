@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p141736
 public boolean equalIsNot(String str) {
   int is = 0;
   int not = 0;
