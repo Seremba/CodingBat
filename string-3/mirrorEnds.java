@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p139411
 public String mirrorEnds(String string) {
   int begin = 0;
   int end = string.length()-1;
