@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p179479
 public int maxBlock(String str) {
   if (str.length() == 0) {
     return 0;
