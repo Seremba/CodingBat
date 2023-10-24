@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p180920
 public int[] fizzArray(int n) {
   int[] newArray = new int[n];
   
