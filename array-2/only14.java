@@ -1,3 +1,4 @@
+// https://codingbat.com/prob/p186672
 public boolean only14(int[] nums) {
   boolean isOneOrFour = true;
   for (int i = 0; i < nums.length; i++) {
