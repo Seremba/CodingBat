@@ -1,4 +1,4 @@
-// 
+// https://codingbat.com/prob/p136648
 public boolean no14(int[] nums) {
   boolean ones = false;
   boolean fours = false;
