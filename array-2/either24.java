@@ -1,4 +1,4 @@
-// 
+
 public boolean either24(int[] nums) {
   boolean twoNextTwo = false;
   boolean fourNextFour = false;;
