@@ -1,4 +1,4 @@
-
+// https://codingbat.com/prob/p191878
 public boolean either24(int[] nums) {
   boolean twoNextTwo = false;
   boolean fourNextFour = false;;
